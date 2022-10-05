@@ -16,7 +16,11 @@ Step 2: Univariate Analysis
 Step 3: Segemented Univariate Analysis
 Step 4: Bivaraiate/Multivariate Analysis
 Step 5: Results
+
+
 Contributors
 Mohammad Asif Bagewadi
 Hemant Singh
+
+
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
